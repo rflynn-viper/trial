@@ -8,7 +8,7 @@ This page is a work log, not a second report. Short bullets are welcome. It is s
 
 ## Starting point
 
-**AI system and date:** Replace.
+**AI system and date:** Does this change things?.
 
 **Before using AI for the required extension, briefly state your question, course-based core model, baseline result, and the specific limitation or opportunity you wanted to address.**
 
